@@ -45,6 +45,7 @@
     "test": "eslint --config @shinnn/node --fix config.js extension.js server.js"
   },
   "dependencies": {
+    "babel-eslint": "6.1.2",
     "eslint-config-standard": "4.4.0",
     "eslint-config-standard-react": "1.2.1",
     "eslint-plugin-react": "3.9.0",
